@@ -1,1 +1,4 @@
-# Lag-do-tatu
+getgenv().fpsdotatu = {
+    Comprar = false,
+    Spam = true
+}
